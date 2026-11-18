@@ -1,0 +1,10 @@
+{
+  "name": "Kubik — робочий простір",
+  "short_name": "Kubik",
+  "description": "Проєкти, цех і монтаж меблевого виробництва.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1b2632",
+  "theme_color": "#1b2632",
+  "icons": [{ "src": "kubik-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

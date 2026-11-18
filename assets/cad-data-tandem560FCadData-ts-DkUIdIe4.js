@@ -1,0 +1,1 @@
+var e={frontOffsetMm:2,bottomOffsetMm:-2,sideInsetMm:51.7,runnerLengthMm:499.5,runnerHeightMm:47.5,runnerWidthMm:51.7},t={250:[37,69,197],270:[37,69,197],300:[37,69,261],350:[37,69,261],400:[37,69,229],450:[37,69,261],500:[37,69,261],550:[37,69,261],600:[37,69,261]};export{e as n,t};
